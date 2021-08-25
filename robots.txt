@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /wp-admin/
+Disallow: /dashboard/
+Disallow: /login/
+Disallow: /feed/
+Disallow: /admin/
+
+Sitemap: http://tarasri.in/sitemap.xml

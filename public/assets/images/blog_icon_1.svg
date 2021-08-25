@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="42" viewBox="0 0 43 42">
+  <g id="blog_icon_1" transform="translate(-338 -1054)">
+    <g id="Rectangle_362" data-name="Rectangle 362" transform="translate(338 1054)" fill="none" stroke="#6c757d" stroke-width="1">
+      <rect width="43" height="42" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="42" height="41" rx="4.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-facebook-f" data-name="Icon awesome-facebook-f" d="M12.133,11.827l.584-3.805H9.066V5.553A1.9,1.9,0,0,1,11.211,3.5h1.66V.257A20.242,20.242,0,0,0,9.924,0C6.917,0,4.952,1.823,4.952,5.122v2.9H1.609v3.805H4.952v9.2H9.066v-9.2Z" transform="translate(351.966 1064.438)" fill="#4867aa"/>
+  </g>
+</svg>

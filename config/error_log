@@ -1,0 +1,4 @@
+[17-May-2021 08:31:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/tarasdk9/public_html/config/copy_database.php:17
+Stack trace:
+#0 {main}
+  thrown in /home4/tarasdk9/public_html/config/copy_database.php on line 17
